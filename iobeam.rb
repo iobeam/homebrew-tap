@@ -1,9 +1,9 @@
 class Iobeam < Formula
   desc "The iobeam command-line tool"
   homepage "https://github.com/iobeam/iobeam"
-  url "https://assets.iobeam.com/releases/iobeam-0.7.6.tar.gz"
-  version "0.7.6"
-  sha256 "720e7c7c171658ae68c9c46587a1a243670a12203bfb37dfcb4e5bc4154ef233"
+  url "https://assets.iobeam.com/releases/iobeam-0.8.0.tar.gz"
+  version "0.8.0"
+  sha256 "a996233200b7fcf282f28da71013227f3e2b8fdbf20b987b5295f0e5e1c177b1"
 
   def install
     bin.install "iobeam"
